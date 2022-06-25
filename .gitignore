@@ -1,0 +1,8 @@
+*.bin
+*.iobj
+*.ipdb
+*.pdb
+*.bat
+target
+compile
+output
